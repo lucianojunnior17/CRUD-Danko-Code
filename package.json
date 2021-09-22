@@ -1,0 +1,22 @@
+{
+  "name": "crud-danko-code",
+  "version": "1.0.0",
+  "description": "Api do Canal  Danki Code\r -------------------------------------------------------------------------------------\r 22/09/2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucianojunnior17/CRUD-Danko-Code.git"
+  },
+  "author": "Luciano Lima Jr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucianojunnior17/CRUD-Danko-Code/issues"
+  },
+  "homepage": "https://github.com/lucianojunnior17/CRUD-Danko-Code#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
